@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.carousel-item img
+{
+	background: #d7d7d7; 
+	width:100%; 
+	margin:0px auto;
+}
+section
+{ 
+	padding:150px 0px;		
+}
+section.odd
+{
+	background:#e7e7e7;
+}
+footer
+{	
+	padding:15px 0px;
+	border-radius:2px;
+	color:#fff;
+}
